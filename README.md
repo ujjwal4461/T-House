@@ -1,5 +1,5 @@
 # T-House
-an e-commerce wesite for t-shits
+an e-commerce wesite for t-shits made using MERN stack and materialize css as the frontend framework and paypal(braintree) as the payment gateway.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
